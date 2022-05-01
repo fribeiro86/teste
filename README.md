@@ -1,5 +1,10 @@
-## Meu primeiro repositório
+<h1> Bem vindo ao meu repositório 🥸</h1>
 
-Meu nome é **Fabrício** e moro na cidade de Florianópolis.
-Meu perfil  no facebooK [Fabricio](https://www.globo.com/).
-![Cachorro](https://www.carroaluguel.com/blog/wp-content/uploads/2016/06/florianopolis.png)
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fribeiro86&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=fribeiro86&theme=buefy"/></td>
+    </tr>   
+</table>
+</center> 
