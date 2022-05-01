@@ -1,4 +1,6 @@
-<h1> Bem vindo ao meu repositório 🥸</h1>
+<h1>Olá, seja bem vindo(a) 🥸</h1>
+
+<h2> Eu sou formado em Análise e desenvolvimento de sistemas. O mundo da programação é fabuloso e transformador. Quero compartilhar e contribuir com o pouco do que aprendi quando ingregessei nesse universo. Sou um eterno aprendiz. </h2> 
 
 <center>
 <table>
